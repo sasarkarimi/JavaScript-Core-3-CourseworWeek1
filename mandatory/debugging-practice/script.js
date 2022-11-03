@@ -5,6 +5,7 @@ window.addEventListener("load", function (e) {
   render();
 });
 
+
 function populateStorage() {
   if (myLibrary.length == 0) {
     let book1 = new Book("Robison Crusoe", "Daniel Defoe", "252", true);
