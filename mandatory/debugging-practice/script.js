@@ -50,6 +50,7 @@ function Book(title, author, pages, check) {
   this.author = author;
   this.pages = pages;
   this.check = check;
+  
 }
 
 function render() {
